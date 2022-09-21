@@ -8,6 +8,10 @@ html {
   scroll-behavior: smooth;
 }
 
+header {
+  color: #fff;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -105,6 +109,8 @@ section.bg-light-grey {
 .card h2 {
   margin-top: 0;
 }
+
+
 
 footer {
   background-color: #000;
