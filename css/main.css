@@ -127,3 +127,14 @@ footer {
   color: #fff;
   text-align: center;
 }
+
+.hero-banner {
+  width: 100%;
+  height: 80vh;
+  background-color: #000;
+  background-image: url('https://images.unsplash.com/photo-1638387868231-69101a44dda9?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjI5NDg3NzA&ixlib=rb-1.2.1&q=80');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background: #000 url('https://images.unsplash.com/photo-1638387868231-69101a44dda9?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjI5NDg3NzA&ixlib=rb-1.2.1&q=80' no-repeat center center);
+}
